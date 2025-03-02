@@ -25,10 +25,10 @@ This Power BI Sales Dashboard provides business insights into sales performance,
 - *DAX (Power BI)* – Data modeling and calculations  
 
 ## How to Use  
-1️⃣ *Download* the Sales_Dashboard.pbix file.  
-2️⃣ Open it in *Power BI Desktop*.  
-3️⃣ Connect it to your own sales dataset (or use the provided sample).  
-4️⃣ Explore the insights and modify filters to analyze trends.  
+1-Download the Sales_Dashboard.pbix file.  
+2-Open it in *Power BI Desktop*.  
+3-Connect it to your own sales dataset (or use the provided sample).  
+4-Explore the insights and modify filters to analyze trends.  
 
 ## Contact Me  
 📧 Email: ayushdutta77@gmail.com 
