@@ -1,20 +1,20 @@
 # Power BI Sales Dashboard  
 
-![Dashboard Preview](dashboard_screenshot.png)  
+![Dashboard Preview](![dashboard_screenshot](https://github.com/user-attachments/assets/7325c98f-49d4-4cea-a60e-8c1847acf711)
 
 ## Overview  
 This Power BI Sales Dashboard provides business insights into sales performance, revenue trends, and customer segmentation. It helps businesses track key metrics and make data-driven decisions.  
 
 ## Key Insights  
-*Total Revenue Analysis* – Track overall revenue trends.  
-*Sales by Region* – Identify high-performing locations.  
-*Top-Selling Products* – Find out which products drive the most sales.  
+*Total sales Analysis* – Track overall revenue trends.  
+*Sales by Region* – Identifying high-performing locations.  
+*Top-Selling Products* – Finding out which products drive the most sales.  
 *Customer Segmentation* – Understand customer behavior.  
 *Monthly Sales Trends* – Analyze revenue growth over time.  
 
 ## Project Files  
-- **Sales_Dashboard.pbix** – Power BI file with the dashboard  
-- **Sales_Data.xlsx** – Sample sales dataset  
+- **SALES_DASHBOARD.pbix** – Power BI file with the dashboard  
+- **Salesdata.csv** – Sample sales dataset  
 - **dashboard_screenshot.png** – Image preview of the dashboard  
 
 ## Tools Used  
