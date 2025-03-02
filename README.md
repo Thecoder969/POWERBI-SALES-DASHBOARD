@@ -13,9 +13,9 @@ This Power BI Sales Dashboard provides business insights into sales performance,
 *Monthly Sales Trends* – Analyze revenue growth over time.  
 
 ## Project Files  
-- **https://github.com/Thecoder969/POWERBI-SALES-DASHBOARD/blob/f150bf2d90200802e6d7d951e4a87132eecf79de/SALES_DASHBOARD.pbix** – Power BI file with the dashboard  
-- **Salesdata.csv** – Sample sales dataset  
-- **dashboard_screenshot.png** – Image preview of the dashboard  
+- **SALES_DASHBOARD.pbix** – Power BI file with the dashboard (raw file uploaded , can be downloaded from here 
+- **Salesdata.csv** – Sample sales dataset  (raw file uploaded , can be downloaded from here
+- **![dashboard_screenshot](https://github.com/user-attachments/assets/1c4f0011-ff41-4bde-b095-f25e90df5e3b)** – Image preview of the dashboard  
 
 ## Tools Used  
 - *Power BI* – Data visualization and dashboard creation  
